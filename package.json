@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/1337programming/lionheart-loader/issues"
   },
-  "homepage": "https://github.com/1337programming/lionheart-loader#readme"
+  "homepage": "https://github.com/1337programming/lionheart-loader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.12"
+  }
 }
